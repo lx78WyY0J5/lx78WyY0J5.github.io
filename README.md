@@ -1,2 +1,1 @@
 # lx78WyY0J5.github.io
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aacac3db261e4736949ad38e33c36a11)](https://app.codacy.com/gh/lx78WyY0J5/lx78WyY0J5.github.io?utm_source=github.com&utm_medium=referral&utm_content=lx78WyY0J5/lx78WyY0J5.github.io&utm_campaign=Badge_Grade_Settings)
